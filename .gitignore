@@ -2,6 +2,6 @@
 !.gitattributes
 !.gitignore
 !README.MD
-!.girkeep
+!.gitkeep
 !*.sv
 !*/
